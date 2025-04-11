@@ -1,0 +1,11 @@
+Version: 1.0 stable
+Date: 19 mars 2025
+Fonctionnalités:
+- Programmation de messages
+- Support des sauts de ligne
+- Affichage correct du nom d'utilisateur
+- Liste et annulation des messages
+- Interface web
+
+Cette version a été testée et validée comme stable.
+Elle résout notamment le problème d'affichage du nom de l'utilisateur qui programme les messages.
